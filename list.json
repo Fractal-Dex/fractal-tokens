@@ -34,7 +34,7 @@
       "symbol": "Fractal",
       "address": "0x1D7307c0F283Fd5F98fE84290cA7f3433cc94035",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Fractal-Dex/fractal-token-images/main/assets/FRAC.png",
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/fractal-7f361.appspot.com/o/FRAC.png?alt=media&token=8e15bb7f-e067-4bc1-b404-02ea3d20d56d",
       "liquid_staked_address": "",
       "tags": [
         "volatilecoin"
