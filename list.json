@@ -15,60 +15,24 @@
     }
   },
   "timestamp": "2023-07-21T00:00:00+00:00",
-  "tokens": [
+  "tokens": [   
     {
-      "chainId": 5611,
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0x6182A5E3165E3DCF7F645136a3C7369DE2e7C5ee",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Fractal-Dex/fractal-token-images/main/assets/USDC.png",
-      "liquid_staked_address": "",
-      "tags": [
-        "stablecoin"
-      ]
-    },
-    {
-      "chainId": 5611,
+      "chainId": 97,
       "name": "Fractal",
       "symbol": "Fractal",
-      "address": "0x1D7307c0F283Fd5F98fE84290cA7f3433cc94035",
+      "address": "0x116F80Be889cf7A17629E7BB27b3cDA7cD9B74B3",
       "decimals": 18,
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/fractal-7f361.appspot.com/o/FRAC.png?alt=media&token=8e15bb7f-e067-4bc1-b404-02ea3d20d56d",
       "liquid_staked_address": "",
       "tags": [
         "volatilecoin"
       ]
-    },
+    }, 
     {
-      "chainId": 5611,
-      "name": "Wrapped opBNB",
-      "symbol": "wopBNB",
-      "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Fractal-Dex/fractal-token-images/main/assets/wopBNB.png",
-      "liquid_staked_address": "",
-      "tags": [
-        "volatilecoin"
-      ]
-    },
-    {
-      "chainId": 5611,
-      "name": "DAI",
-      "symbol": "DAI",
-      "address": "0x5eBD3B4dB6F999533f6dfE4930C0A465dC8cF73a",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Fractal-Dex/fractal-token-images/main/assets/DAI.png",
-      "liquid_staked_address": "",
-      "tags": [
-        "stablecoin"
-      ]
-    },
-    {
-      "chainId": 5611,
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "address": "0x07D91f7623DA4674b81B9811551DB4B4F8AbeA72",
+      "chainId": 97,
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "address": "0xf81d78e2ea9066ae008b8559c062b958df2104be",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Fractal-Dex/fractal-token-images/main/assets/ETH.png",
       "liquid_staked_address": "",
@@ -77,11 +41,11 @@
       ]
     },
     {
-      "chainId": 5611,
+      "chainId": 97,
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
-      "address": "0x370267c55066D88bFE7C136Ed3136A88a4b7225d",
-      "decimals": 8,
+      "address": "0xc776e808236b186c3fe8f18f7fd43949b6d5722b",
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Fractal-Dex/fractal-token-images/main/assets/WBTC.png",
       "liquid_staked_address": "",
       "tags": [
@@ -89,11 +53,11 @@
       ]
     },
     {
-      "chainId": 5611,
+      "chainId": 97,
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0x370267c55066D88bFE7C136Ed3136A88a4b7225d",
-      "decimals": 8,
+      "address": "0x221c5b1a293aac1187ed3a7d7d2d9ad7fe1f3fb0",
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Fractal-Dex/fractal-token-images/main/assets/USDt.png",
       "liquid_staked_address": "",
       "tags": [
