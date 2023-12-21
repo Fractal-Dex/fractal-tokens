@@ -20,7 +20,7 @@
       "chainId": 97,
       "name": "Fractal",
       "symbol": "FRAC",
-      "address": "0x116F80Be889cf7A17629E7BB27b3cDA7cD9B74B3",
+      "address": "0x116f80be889cf7a17629e7bb27b3cda7cd9b74b3",
       "decimals": 18,
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/fractal-7f361.appspot.com/o/FRAC.png?alt=media&token=8e15bb7f-e067-4bc1-b404-02ea3d20d56d",
       "liquid_staked_address": "",
