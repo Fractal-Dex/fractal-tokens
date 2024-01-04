@@ -56,7 +56,7 @@
       "chainId": 97,
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0x221c5b1a293aac1187ed3a7d7d2d9ad7fe1f3fb0",
+      "address": "0x337610d27c682e347c9cd60bd4b3b107c9d34ddd",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Fractal-Dex/fractal-token-images/main/assets/USDt.png",
       "liquid_staked_address": "",
