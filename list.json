@@ -63,6 +63,18 @@
       "tags": [
         "volatilecoin"
       ]
+    },
+    {
+      "chainId": 97,
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x64544969ed7EBf5f083679233325356EbE738930",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Fractal-Dex/fractal-token-images/main/assets/USDC.png",
+      "liquid_staked_address": "",
+      "tags": [
+        "volatilecoin"
+      ]
     }
   ],
   "version": {
